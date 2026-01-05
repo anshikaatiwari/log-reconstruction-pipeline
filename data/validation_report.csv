@@ -1,0 +1,4 @@
+service,large_time_gaps,start_stop_mismatch
+auth-service,32,6
+order-service,40,15
+payment-service,21,24
